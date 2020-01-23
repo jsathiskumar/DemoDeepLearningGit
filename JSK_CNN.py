@@ -84,3 +84,6 @@ if result[0][0] == 1:
     prediction = 'dog'
 else:
     prediction = 'cat'
+
+
+#test
